@@ -4,8 +4,8 @@ import time
 
 if __name__ == '__main__':
     # website credentials
-    username = "****"
-    password = "****"
+    username = "*****"
+    password = "*****"
 
     # initialize the Chrome driver
     driver = webdriver.Chrome("chromedriver")
